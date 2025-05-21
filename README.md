@@ -11,10 +11,7 @@
 5. [🛠️ Tools & Skills Used](#️-tools--skills-used)
 6. [🔍 Before & After: A Data Glow-Up](#-before--after-a-data-glow-up)
 7. [🎯 Why This Project Stands Out](#-why-this-project-stands-out)
-8. [📥 Folder Structure](#-folder-structure)
-9. [🧠 What I Learned](#-what-i-learned)
-10. [💼 Why You Should Hire Me](#-why-you-should-hire-me)
-11. [📫 Let’s Connect](#-lets-connect)
+8. [📫 Let’s Connect](#-lets-connect)
 
 ---
 
@@ -71,7 +68,6 @@ This project was about **transforming raw, chaotic data into refined, business-r
 - SEO-optimized `short_title` column
 - Missing values filled or treated
 - Duplicates removed
-- Project documentation (including Jupyter Notebook and visuals)
 
 ---
 
@@ -129,5 +125,11 @@ This project was about **transforming raw, chaotic data into refined, business-r
 
 ---
 
-## 📥 Folder Structure
+## 📫 Let’s Connect
 
+**👩🏽 Rhoda Ojo**  
+🎓 First Class Graduate – Agricultural Economics & Extension  
+📧 Email: [rhodaayanfeoluwa@gmail.com]   
+
+> 💬 *“Messy data is silent sabotage. I clean it, optimize it, and make it tell the truth businesses need to hear.”*  
+> — *Rhoda, Data Analyst with a Business Brain*
